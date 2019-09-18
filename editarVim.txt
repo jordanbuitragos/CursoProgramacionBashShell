@@ -1,0 +1,7 @@
+# vamos a crear un archivo vim .vimrc en nuestro directorio de usuario /home/usuario esto para configurar, lo cual nos permitira tener un control mas explicito.
+
+set autoindent  (identar)
+set tabstop=4   (espacio identado)
+set expandtab   (gerarquia identado)
+syntax on       (Denotar comandos --color)
+
