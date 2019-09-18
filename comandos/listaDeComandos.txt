@@ -1,6 +1,5 @@
-comando     |    arg       |   object
+comando  |   param    |    arg       |   object
 
-type             cd            explica donde pertenece y quien es
-file          ejemplo.sh       Describe que tipo de archivo es
-       Describe que tipo de archivo es
+type                       cd            explica donde pertenece y quien es
+file                    ejemplo.sh       Describe que tipo de archivo es
 
