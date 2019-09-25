@@ -1,0 +1,9 @@
+operadores relacionales
+
+-eq: is equal to // igual a
+-ne: is not equal to // No es igual a
+-gt: Is greater than// Mayor a
+-ge: Is greater than or equal to // Mayor o igual a
+-lt: Is less than // Menor a
+-le: is less than or equal to // Menor o igual a
+
